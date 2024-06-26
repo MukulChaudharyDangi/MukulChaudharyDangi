@@ -30,6 +30,7 @@ h1{
     justify-content: center;
     padding-top: 50px;
     border-radius: 4px;
+    margin-left: 25px;
 }
 
 
