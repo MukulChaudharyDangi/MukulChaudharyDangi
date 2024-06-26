@@ -14,7 +14,7 @@
   <body>
     <main>
       <h1>
-        He/His
+        He/Him
       </h1>
     </main>
   </body>
