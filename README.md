@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MukulChaudharyDangi
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning java script
+- 🌱 I’m currently learning java 
 - 💞️ I’m looking to collaborate on project based on html,css&javascript
 - 📫 How to reach me via text and email iammukuldangi@outlook.com
 - 😄 Pronouns:<!DOCTYPE html>
